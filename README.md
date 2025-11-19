@@ -1,2 +1,2 @@
 # Sales-Dataset-Analysis-using-Excel
-Analyzed mobile phone usage patterns across different age groups and regions in India using Python. Performed data cleaning, visualization, and statistical analysis to identify user behavior and digital trends.
+Performed data cleaning, created pivot tables, and applied Excel formulas to analyze sales trends, product performance, and regional revenue distribution. Built interactive dashboards using charts and slicers to visualize sales insights and support business decision-making.
